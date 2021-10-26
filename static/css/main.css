@@ -3,7 +3,7 @@
 		}
 
 		body{
-			background-color: #ebeff5;
+			background-color: ##FF5202;
 		}
 
 
@@ -13,9 +13,9 @@
 
 
 		#orders-delivered{
-			background-color: #7abecc;
+			background-color: #FF5202;
 		}
 
 		#orders-pending{
-			background-color: #FFFEA1;
+			background-color: #FF5202;
 		}
