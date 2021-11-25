@@ -3,19 +3,20 @@
 		}
 
 		body{
-			background-color: #ebeff5;
+			background-color: ##FF5202;
 		}
 
 
 		#total-orders{
 			background-color: #8EFCC5;
-		}
+		}a
+		658
 
 
 		#orders-delivered{
-			background-color: #7abecc;
+			background-color: #FF5202;
 		}
 
 		#orders-pending{
-			background-color: #FFFEA1;
+			background-color: #FF5202;
 		}
